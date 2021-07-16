@@ -24,7 +24,7 @@ I practiced my CSS Flexbox knowledge by creating this project. I also practiced 
 
 ### Continued development
 
-I am still not very comfortable using CSS Flexbox and I hope to improve on it. I also want to learn CSS Grid and Accessibility too.
+I am still not very comfortable using CSS Flexbox and I hope to improve on it. I also want to perfect CSS Grid and Accessibility. 
 
 ### Useful resources
 
